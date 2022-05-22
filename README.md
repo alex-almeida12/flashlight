@@ -1,6 +1,6 @@
 # dio-flashlight
 
-Desafio de Projeto da dio do Bootcamp da Avanade: Construindo um app usando o sensor de movimento com React Native
+Desafio de Projeto da dio do Bootcamp da Avanade: Construindo um app usando o sensor de movimento com React Native para ativar a lanterna ao chocoalhar o smartphone.
 
 ![image](https://user-images.githubusercontent.com/28990749/165650549-07daaabe-15fa-432e-9146-71bae90e43b0.png)
 
